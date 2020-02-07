@@ -1,0 +1,28 @@
+{
+  "name": "react-typescript-parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@types/react": "16.9.9",
+    "@types/react-dom": "16.9.2",
+    "clsx": "1.1.0",
+    "framer-motion": "1.8.4",
+    "react": "16.10.2",
+    "react-dom": "16.10.2",
+    "tailwindcss": "1.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "autoprefixer": "9.1.5",
+    "parcel-bundler": "1.10.0",
+    "postcss-import": "12.0.0",
+    "postcss-normalize": "7.0.1",
+    "postcss-preset-env": "6.0.6"
+  },
+  "keywords": []
+}
